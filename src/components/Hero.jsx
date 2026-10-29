@@ -43,7 +43,7 @@ function Hero() {
         <div className="relative mx-auto w-full max-w-sm">
           <div className="rounded-3xl bg-surface/80 backdrop-blur border border-base-line shadow-xl shadow-blue-900/10 p-4">
             <img
-              src="/lely.jpeg"
+              src="/foto/profil.jpeg"
               alt="Foto Lely N.F. Butarbutar"
               className="aspect-[4/5] w-full rounded-2xl object-cover object-top"
             />

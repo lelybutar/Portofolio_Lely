@@ -26,22 +26,7 @@ const timeline = [
   photos: [
     { src: '/foto/organisasi-1.jpg', alt: 'Dokumentasi kegiatan organisasi MPM KM IT Del' },
   ],
-},
-  {
-  label: 'Kegiatan',
-  period: 'ISI BULAN DAN TAHUN',
-  title: 'Panitia Lomba Cerdas Cermat (LCC)',
-  place: 'PT Indonesia Asahan Aluminium (INALUM)',
-  note: 'Kepanitiaan · Kompetisi Akademik · Kerja Sama Tim',
-  detail:
-    'Terlibat sebagai panitia dalam kegiatan Lomba Cerdas Cermat (LCC) tingkat SMP/MTs dan SMA/SMK se-Kabupaten Toba yang diselenggarakan oleh PT Indonesia Asahan Aluminium (INALUM) di kampus IT Del. Kegiatan ini bertujuan untuk memberikan wadah bagi pelajar dalam mengembangkan pengetahuan, kemampuan berpikir kritis, serta semangat berkompetisi secara sehat.\n\nMelalui keterlibatan dalam kegiatan ini, saya memperoleh pengalaman dalam mendukung pelaksanaan acara, berkoordinasi dengan tim, dan membantu memastikan kegiatan berjalan dengan tertib sesuai dengan tugas dan tanggung jawab yang diberikan.',
-  photos: [
-    {
-      src: '/foto/kegiatan-1.jpg',
-      alt: 'Dokumentasi kepanitiaan Lomba Cerdas Cermat tingkat SMP/MTs dan SMA/SMK se-Kabupaten Toba',
-    },
-  ],
-},
+}
 ];
 
 function About() {
