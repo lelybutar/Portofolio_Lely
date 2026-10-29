@@ -11,8 +11,10 @@ const timeline = [
     detail:
      'Selama menempuh pendidikan Teknologi Komputer, saya berkesempatan mempelajari berbagai bidang yang sebelumnya belum pernah saya kenal, mulai dari jaringan komputer, keamanan sistem, Internet of Things (IoT), pengembangan aplikasi web, hingga cloud computing. Dari berbagai bidang tersebut, saya paling tertarik pada IoT dan pengembangan aplikasi karena saya menikmati proses membangun sesuatu dari ide hingga menjadi sistem yang dapat digunakan.\n\nKetertarikan tersebut saya kembangkan melalui berbagai proyek selama perkuliahan, mulai dari aplikasi web, sistem monitoring, hingga proyek IoT. Melalui proyek-proyek tersebut, saya belajar tidak hanya tentang pemrograman, tetapi juga bagaimana merancang sistem, mengelola database, mengintegrasikan berbagai teknologi, melakukan pengujian, dan menyelesaikan masalah yang muncul selama proses pengembangan.\n\nPada tugas akhir, saya mengembangkan sistem monitoring cuaca berbasis IoT menggunakan ESP32 dan LoRa, yang dilengkapi komunikasi MQTT, Node-RED, MySQL, serta dashboard web untuk menampilkan dan memantau data cuaca.',
     photos: [
-      { src: '/foto/1.jpg', alt: 'ISI deskripsi foto' },
-      { src: '/foto/2.jpg', alt: 'ISI deskripsi foto' },
+      { src: '/foto/d3tk4.png' },
+      { src: '/foto/d3tk.png'},
+      { src: '/foto/d3tk2.png'},
+      { src: '/foto/d3tk3.png'},
     ],
   },
  {
@@ -24,7 +26,10 @@ const timeline = [
   detail:
     'Sebagai anggota Komisi E di Majelis Permusyawaratan Mahasiswa KM IT Del, saya terlibat dalam kegiatan hubungan masyarakat, publikasi informasi, dan dukungan kreatif untuk program organisasi. Saya membantu menyampaikan informasi kegiatan kepada mahasiswa serta mendukung kebutuhan komunikasi dan visual publikasi agar pesan dapat tersampaikan dengan jelas dan menarik.\n\nSalah satu pengalaman saya adalah menjadi panitia TikTok Content 2025, sebuah lomba pembuatan konten edukasi yang mengangkat nilai-nilai moral dalam kehidupan kampus. Dalam kegiatan ini, saya berkontribusi pada tim desain dan komunikasi, termasuk mendukung kebutuhan visual publikasi serta penyampaian informasi lomba kepada mahasiswa.\n\nMelalui pengalaman ini, saya belajar bekerja sama dalam tim, mengomunikasikan informasi secara efektif, mengembangkan ide kreatif, dan mendukung pelaksanaan kegiatan dari sisi publikasi maupun komunikasi.',
   photos: [
-    { src: '/foto/organisasi-1.jpg', alt: 'Dokumentasi kegiatan organisasi MPM KM IT Del' },
+    { src: '/foto/mpm.png'},
+    { src: '/foto/mpm2.png'},
+    { src: '/foto/mpm3.png'},
+    { src: '/foto/mpm4.png'},
   ],
 }
 ];
